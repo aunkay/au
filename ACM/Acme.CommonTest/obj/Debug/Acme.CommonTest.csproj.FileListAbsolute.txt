@@ -1,0 +1,11 @@
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\Acme.Common.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\ACM.BL.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojResolveAssemblyReference.cache
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb

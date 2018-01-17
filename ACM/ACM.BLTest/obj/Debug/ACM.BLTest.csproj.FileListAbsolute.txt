@@ -1,0 +1,11 @@
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\bin\Debug\Acme.Common.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

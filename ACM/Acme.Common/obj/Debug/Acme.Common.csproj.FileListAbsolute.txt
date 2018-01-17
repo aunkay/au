@@ -1,0 +1,5 @@
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\alperu\Desktop\AU\object-oriented-programming-fundamentals-csharp\9-oop-fundamentals-csharp-m9-interfaces-exercise-files\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
